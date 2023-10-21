@@ -122,7 +122,7 @@ def methodlogin():
         hopa.close()
         print '\n[\xe2\x9c\x93]  \x1b[1;91mLogged In Successfully.'
         time.sleep(1)
-        os.system('xdg-open https://www.youtube.com/channel/HackerWasii')
+        os.system('xdg-open https://www.youtube.com/@Mawi.Man.officiel')
         os.system('python2 .wasii.py')
     elif hos == '0':
         exit()
