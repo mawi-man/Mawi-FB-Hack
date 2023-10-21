@@ -142,7 +142,7 @@ def login():
         os.system('clear')
         print banner
         wasii('[\xf0\x9f\x94\x90] \x1b[1;96mLogin Your Facebook Account')
-        wasii('[\xf0\x9f\x94\x90] \x1b[1;96mDonot Use Your Personal Account')
+        wasii('[\xf0\x9f\x94\x90] \x1b[1;96mDo not Use Your Personal Account')
         wasii('[\xf0\x9f\x94\x90] \x1b[1;96mUse a New Facebook Account To Login')
         print '-------------------------------------'
         iid = raw_input('[+] Number/Email: ')
