@@ -105,18 +105,5 @@ people we created Devil Framework password protection.
 
 # SubScribe Our YouTube Channel
 ```
-<a href="https://www.youtube.com/channel/UC0bX56PZ_nMZw3t4p90SYyQ">
-<p><img src="https://img.shields.io/badge/YouTube-TheLinuxChoice-blue.svg"></p>
-</a>
-
-
-![devil-yellow](https://github.com/evildevill/Devil/blob/master/ascets/youtube%20channel.png)
-```
-
-# Devil Framework disclaimer
-
-```
-Usage of the Devil Framework for attacking targets without prior mutual consent is illegal.
-It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
-Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+https://www.youtube.com/channel/UCSn6T5MWBSE3jFTeu2QGIUA
 ```
