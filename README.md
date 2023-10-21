@@ -64,23 +64,11 @@ chmod +x *
 python2 wasi.py 
 ```
 
-```
-Also, we do not recommend to change the source code of ehtools because 
-it is very complex and you can mess up something and disrupt the framework!
-```
 
 ***
 
-# Devil Framework execution
 
-```
-To run Devil Framework you should 
-execute the following command.
-```
 
-```
-> python2 Devil.py
-```
 ***
 
 
