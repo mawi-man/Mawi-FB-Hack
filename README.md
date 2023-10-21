@@ -5,26 +5,8 @@ MAWI MAN (Mawi FB Hack)
                 
 **username** `hacker`
 **password** `wasii`
-<p align="center">
-  <a href="http://mocrz.blogspot.com/">
-    <img src="https://img.shields.io/badge/EvilDevil-Mocrz-lightgrey">
-  </a> 
-  <a href="https://github.com/evildevill/Devil/releases">
-    <img src="https://img.shields.io/badge/release-v3.0.0-blue">
-  </a>
-  <a href="https://wikipedia.org/wiki/Shell_script">
-    <img src="https://img.shields.io/badge/language-shell-green.svg">
- </a>
-  <a href="https://github.com/evildevill/Devil">
-      <img src="https://img.shields.io/badge/issue-0%20open-green">
-  </a>
-  <a href="https://github.com/evildevill/Devil/wiki">
-      <img src="https://img.shields.io/badge/wiki-Devil-lightgrey">
- </a>
-  <a href="https://twitter.com/hackerwasii">
-    <img src="https://img.shields.io/badge/twitter-Hackerwasi-blue.svg">
- </a>
-</p>
+
+
 
 ![Evil-Devil](https://github.com/evildevill/Devil/blob/master/ascets/Screenshot_2020-08-30-14-16-35.png)
 
