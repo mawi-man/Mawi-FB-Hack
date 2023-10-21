@@ -3,7 +3,8 @@
 
 MAWI MAN (Mawi FB Hack)
 
-* Devil Framework only supports two OS.        
+* login Free For Mawi FB Hack
+        
 **username** `hacker`
 **password** `wasii`
 
