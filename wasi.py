@@ -11,7 +11,7 @@ try:
 except ImportError:
     os.system('pip2 install requests')
     os.system('pip2 install mechanize')
-    os.system('python2 wasii.py')
+    os.system('python2 wasi.py')
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -52,7 +52,7 @@ def wasii(z):
         time.sleep(0.03)
 
 
-banner = '\n\x1b[1;95mTool By Hacker MAWI \n We are not responsible for any \nillegal activity\n \n'
+banner = '\n\x1b[1;95mTool By Hacker MAWI MAN\n We are not responsible for any \nillegal activity\n \n'
 def tik():
     titik = [
      '.   ', '..  ', '... ']
