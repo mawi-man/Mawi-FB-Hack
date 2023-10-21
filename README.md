@@ -83,25 +83,6 @@ execute the following command.
 ```
 ***
 
-# Why Devil Framework
-
-* More than 38 tools for pentesting installed by default.
-```
-More than 38 options installed by default 
-you can find in Devil, this is tools such 
-as MetaSploit, Pupy and other tools!
-```
-* Password protection and config encryption.
-```
-In version 2.1.6 we added pasword protection, we added 
-it for users who think that his/her friend or parents will 
-turn into Devil and will remove or destroy it. Only for this 
-people we created Devil Framework password protection.
-```
-
-
-
-
 
 # SubScribe Our YouTube Channel
 ```
