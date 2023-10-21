@@ -11,7 +11,7 @@ try:
 except ImportError:
     os.system('pip2 install requests')
     os.system('pip2 install mechanize')
-    os.system('python2 Mawi-FB-Hack.py')
+    os.system('python2 wasii.py')
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -90,7 +90,7 @@ def tlogin():
         tlogin()
     try:
         toket = open('login.txt', 'r')
-        os.system('python2 .Mawi-FB-Hack.py')
+        os.system('python2 .wasii.py')
     except (KeyError, IOError):
         methodlogin()
     else:
@@ -123,7 +123,7 @@ def methodlogin():
         print '\n[\xe2\x9c\x93]  \x1b[1;91mLogged In Successfully.'
         time.sleep(1)
         os.system('xdg-open https://www.youtube.com/@Mawi.Man.officiel')
-        os.system('python2 .Mawi-FB-Hack.py')
+        os.system('python2 .wasii.py')
     elif hos == '0':
         exit()
     else:
@@ -135,7 +135,7 @@ def login():
     os.system('clear')
     try:
         tb = open('login.txt', 'r')
-        os.system('python2 .Mawi-FB-Hack.py')
+        os.system('python2 .wasii.py')
     except (KeyError, IOError):
         os.system('clear')
         print banner
@@ -157,7 +157,7 @@ def login():
             time.sleep(1)
             os.system('xdg-open https://www.youtube.com/@Mawi.Man.officiel')
             os.system('clear')
-            os.system('python2 .Mawi-FB-Hack.py')
+            os.system('python2 .wasii.py')
         elif 'www.facebook.com' in z['error_msg']:
             print '[!] \x1b[1;91mUser Must Verify Account Before Login.'
             time.sleep(3)
