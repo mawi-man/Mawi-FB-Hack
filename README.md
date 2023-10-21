@@ -26,42 +26,42 @@ Facebook accounts within seconds. Plus, it's easy to install, set up and use.
 
 
 
-## Devil Tool installation
+## Mawi Fb Hack Tool installation
 ```
-> apt-get update -y
-```
-
-```
-> apt-get install python2 -y
+apt-get update -y
 ```
 
 ```
-> pip2 install mechanize
+apt-get install python2 -y
 ```
 
 ```
-> pip2 install requests
+pip2 install mechanize
 ```
 
 ```
-> apt-get install git -y
+pip2 install requests
+```
+
+```
+apt-get install git -y
 ```
 
 
 ```
-> git clone https://github.com/evildevill/Devil.git
+git clone https://github.com/mawi-man/Mawi-FB-Hack.git
 ```
 
 ```
-> cd Devil
+cd Devil
 ```
 
 ```
-> chmod +x *
+chmod +x *
 ```
 
 ```
-> python2 wasi.py 
+python2 wasi.py 
 ```
 
 ```
