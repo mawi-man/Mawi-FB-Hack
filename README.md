@@ -61,7 +61,7 @@ chmod +x *
 ```
 
 ```
-python2 wasi.py 
+python2 Mawi-FB-Hack.py
 ```
 
 
