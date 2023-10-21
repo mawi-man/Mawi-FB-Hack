@@ -95,7 +95,7 @@ operating systems - Kali Linux and Termux!
 > python2 wasi.py 
 ```
 
-
+```
 Also, we do not recommend to change the source code of ehtools because 
 it is very complex and you can mess up something and disrupt the framework!
 ```
@@ -109,22 +109,20 @@ To run Devil Framework you should
 execute the following command.
 ```
 
+```
 > python2 Devil.py
-
+```
 ***
 
 # Why Devil Framework
 
 * More than 38 tools for pentesting installed by default.
-
 ```
 More than 38 options installed by default 
 you can find in Devil, this is tools such 
 as MetaSploit, Pupy and other tools!
 ```
-
 * Password protection and config encryption.
-
 ```
 In version 2.1.6 we added pasword protection, we added 
 it for users who think that his/her friend or parents will 
@@ -137,13 +135,14 @@ people we created Devil Framework password protection.
 
 
 # SubScribe Our YouTube Channel
-
+```
 <a href="https://www.youtube.com/channel/UC0bX56PZ_nMZw3t4p90SYyQ">
 <p><img src="https://img.shields.io/badge/YouTube-TheLinuxChoice-blue.svg"></p>
 </a>
 
 
 ![devil-yellow](https://github.com/evildevill/Devil/blob/master/ascets/youtube%20channel.png)
+```
 
 # Devil Framework disclaimer
 
