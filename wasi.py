@@ -101,10 +101,12 @@ def tlogin():
 
 def methodlogin():
     os.system('clear')
-    print banner
-    print '[1] \x1b[1;93m Login With ID/Password.'
-    print '[2]  \x1b[1;93mLogin Using Token.( No Identity Problem )'
-    print '[3]  \x1b[1;93mExit.'
+    print banner   
+    print '[1] \x1b[1;93m Hacking FB/Password.'
+    print '[2] \x1b[1;93m Hacking Login/FB.'
+    print '[3] \x1b[1;93m Login With ID/Password.'
+    print '[4]  \x1b[1;93mLogin Using Token.( No Identity Problem )'
+    print '[0]  \x1b[1;93mExit.'
     print '      '
     hos = raw_input('\n \x1b[1;92mChoose Option >>  ')
     if hos == '':
