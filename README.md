@@ -1,8 +1,5 @@
 #### Thank You-🙏🏼
 
-<p>
-</p>
-
 
 Evil Devill (Devil FaceBook Hacking Tool)
                 
