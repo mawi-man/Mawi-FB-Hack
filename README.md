@@ -1,7 +1,5 @@
-#### Thank You-🙏🏼
+#### MAWI MAN-☠️
 
-
-MAWI MAN (Mawi FB Hack)
 
 * login Free For Mawi FB Hack
         
