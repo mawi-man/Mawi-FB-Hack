@@ -1,6 +1,7 @@
-# Tool : Wasii ( Facebook cloning tool)
-# Author : Waseem Akram ( hackerwasii )
-# github : https://github.com/evildevill
+# Tool : MAWI ( Facebook cloning tool)
+# Author : Mawi Man ( hacker MAWI )
+# github : https://github.com/mawi-man
+# web : https://mawi.taplink.ws
 # Note : we are not responsible for any misuse
 try:
     import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass, mechanize, requests
@@ -68,7 +69,7 @@ def tlogin():
     os.system('clear')
     print banner
     username = raw_input('[\xf0\x9f\x94\x90] \x1b[1;94mTOOL USERNAME: ')
-    if username == 'hacker':
+    if username == 'mawi':
         os.system('clear')
         print banner
         print '[\xe2\x9c\x93]  \x1b[1;91mTOOL USERNAME: ' + username + ' (correct)'
@@ -77,7 +78,7 @@ def tlogin():
         time.sleep(1)
         tlogin()
     passw = raw_input('[\xf0\x9f\x94\x90]  \x1b[1;94mTOOL PASSWORD: ')
-    if passw == 'wasii':
+    if passw == 'mawi':
         os.system('clear')
         print banner
         print '[\xe2\x9c\x93]  \x1b[1;91mTOOL USERNAME: ' + username + ' (correct)'
@@ -154,7 +155,7 @@ def login():
             st.close()
             print '\n[\xe2\x9c\x93] \x1b[1;91mLogged In Successfully.'
             time.sleep(1)
-            os.system('xdg-open https://www.youtube.com/channe/HackerWasii')
+            os.system('xdg-open https://www.youtube.com/@Mawi.Man.officiel')
             os.system('clear')
             os.system('python2 .wasii.py')
         elif 'www.facebook.com' in z['error_msg']:
