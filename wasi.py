@@ -52,7 +52,7 @@ def wasii(z):
         time.sleep(0.03)
 
 
-banner = '\n\x1b[1;95mTool By Hacker wasii\n We are not responsible for any \nillegal activity\n \n'
+banner = '\n\x1b[1;95mTool By Hacker MAWI\n We are not responsible for any \nillegal activity\n \n'
 def tik():
     titik = [
      '.   ', '..  ', '... ']
