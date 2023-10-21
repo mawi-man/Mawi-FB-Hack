@@ -9,7 +9,7 @@
 
 
 
-![Evil-Devil](https://github.com/evildevill/Devil/blob/master/ascets/Screenshot_2020-08-30-14-16-35.png)
+![Evil-Devil](https://github.com/evildevill/Devil/blob/master/ascets/Screenshot_2020-08-30-14-16-35.jpg)
 
 ***
 
