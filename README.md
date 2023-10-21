@@ -13,27 +13,17 @@
 
 ***
 
-# About Devil Tool
+# About Mawi Fb Hack Tool
 
 ```
-Facebook tools keep getting more and more accessible to beginners, and the Devil Tool 
-is a framework of serious Facebook Accounts Grabhing tools that can be explored easily from within it. 
-This powerful and simple tool can be used for everything from installing new add-ons to grabbing 
-a Facebook Accounts in a matter of seconds. Plus, it's easy to install, set up, and utilize.
+Facebook tools continue to reach more and more beginners, and Mawi FB Hack Tool
+It is a framework of serious Facebook account takeover tools that can be easily explored from within.
+This powerful and simple tool can be used for everything from installing new add-ons to hijacking them
+Facebook accounts within seconds. Plus, it's easy to install, set up and use.
 ```
 
 ***
 
-# Getting started
-
-## System requirements 
-
-* Devil Framework only supports two OS.
-
-```
-Devil Framework only supports two 
-operating systems - Kali Linux and Termux!
-```
 
 
 ## Devil Tool installation
