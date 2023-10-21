@@ -53,7 +53,7 @@ git clone https://github.com/mawi-man/Mawi-FB-Hack.git
 ```
 
 ```
-cd Devil
+cd Mawi-FB-Hack
 ```
 
 ```
