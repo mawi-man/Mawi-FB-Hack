@@ -28,7 +28,7 @@ Facebook accounts within seconds. Plus, it's easy to install, set up and use.
 
 # Download Termunx
 
-https://mawi-man-369.blogspot.com/2023/10/1111.html
+https://cutt.us/download-termunx
 ***
 
 ## Mawi Fb Hack Tool installation
