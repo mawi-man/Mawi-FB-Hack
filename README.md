@@ -77,5 +77,5 @@ python2 wasi.py
 
 # SubScribe Our YouTube Channel
 
-https://www.youtube.com/channel/UCSn6T5MWBSE3jFTeu2QGIUA
+https://youtu.be/kwGhUvLq1J8?si=ySUhhj8G1hfVDshY
 ***
